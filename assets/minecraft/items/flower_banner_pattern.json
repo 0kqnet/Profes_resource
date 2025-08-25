@@ -166,6 +166,10 @@
       { "threshold": 111313, "model": { "type": "model", "model": "item/job/113/invisible/poison"}},
       { "threshold": 111304, "model": { "type": "model", "model": "item/job/113/scroll"}},
       { "threshold": 111314, "model": { "type": "model", "model": "item/job/113/invisible/scroll"}},
+      { "threshold": 111391, "model": { "type": "model", "model": "item/job/113/slash_1"}},
+      { "threshold": 111392, "model": { "type": "model", "model": "item/job/113/slash_2"}},
+      { "threshold": 111393, "model": { "type": "model", "model": "item/job/113/slash_3"}},
+      { "threshold": 111394, "model": { "type": "model", "model": "item/job/113/slash_4"}},
       { "threshold": 200000, "model": { "type": "model", "model": "item/---"}},
       { "threshold": 999999, "model": { "type": "model", "model": "item/---"}}
     ]
